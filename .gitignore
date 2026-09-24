@@ -1,5 +1,9 @@
 *.temp*
 
+# Environment directories #
+###########################
+.venv/
+
 # Compiled source #
 ###################
 *.com
